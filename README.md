@@ -109,6 +109,7 @@ Version control is being used to manage project documentation and future develop
 The project is being developed using Git and GitHub for version control and collaboration.
 
 
+
 ## Reliability Dashboard
 
 
@@ -116,4 +117,16 @@ The project is being developed using Git and GitHub for version control and coll
 The reliability dashboard will provide transport delay indicators,
 
 route reliability information, and operational performance summaries.
+
+## Major System Features
+
+
+
+\- Transport delay and reliability monitoring
+
+\- Passenger experience and smart routing
+
+\- Fleet operations and incident management
+
+\- Transport analytics and operational insights
 
