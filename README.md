@@ -92,3 +92,13 @@ The project is managed using Agile Scrum and Jira, with Epics, User Stories, Pro
 
 Project development and planning in progress.
 
+
+
+\## Development Status
+
+
+
+The project repository has been initialized using Git and GitHub.
+
+Version control is being used to manage project documentation and future development.
+
