@@ -103,6 +103,17 @@ The project repository has been initialized using Git and GitHub.
 Version control is being used to manage project documentation and future development.
 
 
+
 ## Repository Status
 
 The project is being developed using Git and GitHub for version control and collaboration.
+
+
+## Reliability Dashboard
+
+
+
+The reliability dashboard will provide transport delay indicators,
+
+route reliability information, and operational performance summaries.
+
