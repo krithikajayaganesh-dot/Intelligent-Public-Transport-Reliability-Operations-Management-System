@@ -110,9 +110,9 @@ The project is being developed using Git and GitHub for version control and coll
 
 
 
-## Reliability Dashboard - Contributor A - Main Branch
+## Reliability Dashboard
 
-
+The reliability dashboard provides information about public transport performance and reliability.
 
 The reliability dashboard will provide transport delay indicators,
 
